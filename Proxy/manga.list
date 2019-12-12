@@ -1,5 +1,3 @@
 # > 漫画柜
-DOMAIN-SUFFIX,www.manhuagui.com,Manga
-DOMAIN-SUFFIX,m.manhuagui.com,Manga
-DOMAIN-SUFFIX,tw.manhuagui.com,Manga
-DOMAIN-SUFFIX,cf.hamreus.com,Manga
+DOMAIN-SUFFIX,manhuagui.com,Manga
+DOMAIN-SUFFIX,hamreus.com,Manga
